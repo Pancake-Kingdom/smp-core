@@ -1,0 +1,4 @@
+name: Smp-Core
+version: '${project.version}'
+main: de.ingressboy.smpcore.SmpCore
+api-version: 1.18
